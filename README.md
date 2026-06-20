@@ -1,7 +1,7 @@
 # 🚀 C Programming Journey
 
 Welcome to my C programming repository!
-This repository contains all the programs, concepts, and problem-solving exercises that I am practicing while learning **C from scratch**.
+This repository contains all the programs, concepts, and problem-solving exercises that I am practicing while learning **C from scratch** .
 
 ---
 
